@@ -1,4 +1,4 @@
-# SistemaReservaYventasHoteles
+# SistemaReservaYventas_para_Hoteles
 Sistema Informático en Java 8 y Mysql, Sistema de Reserva de Hotelera y sistema de ventas en java. 
 Programas usados: 
 Plataforma Netbeans 8.2  
